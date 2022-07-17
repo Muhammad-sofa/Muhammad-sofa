@@ -1,9 +1,9 @@
 ### Hi there 👋 It's me Muhammad Sofa Yuliansyah
 
 ### and here is my stats
-<p align="center"><br /><br />
+<p align="center"><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-sofa&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="hossein heydari's GitHub stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-sofa&layout=compact&theme=chartreuse-dark&langs_count=5"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-sofa&layout=compact&theme=chartreuse-dark&langs_count=12"/>
 </p>
 
 <!--
