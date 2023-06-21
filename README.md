@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-<h1 align="center">Hi 👋 I'm Muhammad Sofa Yuliansyah</h1>
+<h1 align="center">Hi 👋 I'm Sofa</h1>
 
 <p align="center"><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-sofa&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="hossein heydari's GitHub stats" />
